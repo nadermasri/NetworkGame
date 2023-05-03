@@ -1,8 +1,7 @@
 # NetworkGamee
 This is a game developed by Nader Al Masri
 
-You can access the HIGH RESOLUTION video using the following link (Pass is:networksgame): https://mailaub-my.sharepoint.com/:v:/g/personal/nma119_mail_aub_edu/EW9yD8sdfLZOuHa_pBxNNDIBqBQdswyCcyqtDI5Et2fI2Q?e=hLgUYl
-
+You can access the HIGH RESOLUTION video using the following link (Pass is:networksgame): https://mailaub-my.sharepoint.com/:v:/g/personal/nma119_mail_aub_edu/EW9yD8sdfLZOuHa_pBxNNDIB-fHis-fR0KbCXAhugZSQ5g?e=kBQWmP
 Concerning the project, I uploaded a client and a server py files for running the game using a normal console; and we uploaded a version of the code with an interface.
 
 Overview of the game:
