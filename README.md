@@ -1,4 +1,4 @@
-# NetworkGamee
+# NetworkGame
 This is a game developed by Nader Al Masri
 
 You can access the HIGH RESOLUTION video using the following link (Pass is:networksgame): https://mailaub-my.sharepoint.com/:v:/g/personal/nma119_mail_aub_edu/EW9yD8sdfLZOuHa_pBxNNDIB-fHis-fR0KbCXAhugZSQ5g?e=kBQWmP
